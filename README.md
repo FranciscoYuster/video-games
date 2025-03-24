@@ -22,7 +22,7 @@ Esta aplicación web permite a los usuarios buscar y visualizar información sob
 
    ```bash
    git clone https://github.com/FranciscoYuster/video-games
-   cd desafio-video-games
+   cd video-games
    ```
 2. **Instala las dependencias:**
 
