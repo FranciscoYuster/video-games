@@ -21,7 +21,7 @@ Esta aplicación web permite a los usuarios buscar y visualizar información sob
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/FranciscoYuster/VideoJuegos
+   git clone https://github.com/FranciscoYuster/video-games
    cd desafio-video-games
    ```
 2. **Instala las dependencias:**
