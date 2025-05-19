@@ -47,11 +47,12 @@ Esta aplicación web permite a los usuarios buscar y visualizar información sob
 
 ## Despliegue
 
-La aplicación está desplegada en Vercel. Para desplegarla, se siguieron estos pasos:
+La aplicación está desplegada en Vercel. 👉[https://video-juegos-lac.vercel.app/](video-games-lac.vercel.app)
+
+Para desplegarla, se siguieron estos pasos:
 
 1. Subir el repositorio a GitHub.
 2. Crear un nuevo proyecto en Vercel e importar el repositorio.
 3. Configurar la variable de entorno `VITE_RAWG_API_KEY` en Vercel.
 4. Una vez completado el proceso, clic en "deploy", y la aplicación se puede acceder desde:
 
-[https://video-juegos-rust.vercel.app/](https://video-juegos-rust.vercel.app/)
